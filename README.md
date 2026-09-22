@@ -19,7 +19,6 @@ This hardware prototype integrates multiple functional electronic blocks onto a 
 ---
 
 ## 📷 Circuit Preview
-*(Add your 3D PCB render or schematic screenshot here)*
 ![3D Layout](Documentation/3D_PCB_Render.png)
 
 ---
